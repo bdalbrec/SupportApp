@@ -1,0 +1,8 @@
+{
+    "server": "localhost",
+    "port" : "1433",
+    "username" : "FSAUser",
+    "password" : "FASTAuto1!",
+    "database" : "FastSupportApp",
+    "logname" : "logs/FabSupportLog.log"
+  }
