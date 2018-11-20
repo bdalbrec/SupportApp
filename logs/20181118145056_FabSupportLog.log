@@ -1,0 +1,260 @@
+2018/11/11 19:29:22.432;INFO; Serving index2.
+2018/11/11 19:30:45.832;INFO; Serving index2.
+2018/11/11 19:31:19.78;INFO; Serving index2.
+2018/11/12 07:41:45.039;INFO; Database connect and ping successful.
+2018/11/12 07:41:45.042;INFO; Starting the HTTP server
+2018/11/12 07:41:49.922;INFO; Serving index2.
+2018/11/12 07:55:40.312;INFO; Serving index2.
+2018/11/12 07:56:26.266;INFO; Serving index2.
+2018/11/12 07:57:41.08;INFO; Serving index2.
+2018/11/12 08:02:38.1;INFO; Serving index2.
+2018/11/12 08:03:20.428;INFO; Serving index2.
+2018/11/12 08:03:54.183;INFO; Serving index2.
+2018/11/12 08:05:31.318;INFO; Serving index2.
+2018/11/12 08:06:04.132;INFO; Serving index2.
+2018/11/12 08:18:00.448;INFO; Serving index2.
+2018/11/12 08:18:30.759;INFO; Database connect and ping successful.
+2018/11/12 08:18:30.76;INFO; Starting the HTTP server
+2018/11/12 08:18:35.331;INFO; Serving index2.
+2018/11/12 08:21:10.692;INFO; Serving index2.
+2018/11/12 08:21:36.035;INFO; Serving index2.
+2018/11/12 08:22:05.102;INFO; Serving index2.
+2018/11/12 08:31:03.408;INFO; Serving index2.
+2018/11/12 08:36:45.174;INFO; Serving index2.
+2018/11/12 08:37:01.958;INFO; Serving index2.
+2018/11/12 08:46:11.672;INFO; Serving index2.
+2018/11/12 08:46:57.048;INFO; Serving index2.
+2018/11/12 08:47:21.54;INFO; Serving index2.
+2018/11/12 08:49:40.672;INFO; Serving index2.
+2018/11/12 09:06:31.615;INFO; Serving index2.
+2018/11/12 09:07:17.27;INFO; Serving index2.
+2018/11/12 09:07:40.793;INFO; Serving index2.
+2018/11/12 09:07:44.483;INFO; Serving index2.
+2018/11/12 09:08:11.044;INFO; Serving index2.
+2018/11/12 09:08:45.205;INFO; Serving index2.
+2018/11/12 09:10:32.064;INFO; Serving index2.
+2018/11/12 09:12:29.017;INFO; Serving index2.
+2018/11/12 09:12:51.648;INFO; Serving index2.
+2018/11/12 09:16:10.599;INFO; Serving index2.
+2018/11/12 13:52:24.783;INFO; Serving index.
+2018/11/12 13:52:34.524;INFO; Serving index2.
+2018/11/12 13:55:44.403;INFO; Serving index2.
+2018/11/12 14:04:36.253;INFO; Database connect and ping successful.
+2018/11/12 14:04:36.254;INFO; Starting the HTTP server
+2018/11/12 14:04:41.457;INFO; Serving index2.
+2018/11/12 14:04:48.002;INFO; Serving index.
+2018/11/12 14:05:02.929;INFO; Serving index.
+2018/11/12 14:05:09.524;INFO; Serving addLink.
+2018/11/12 14:06:46.339;INFO; Database connect and ping successful.
+2018/11/12 14:06:46.34;INFO; Starting the HTTP server
+2018/11/12 14:06:49.9;INFO; Serving addLink.
+2018/11/12 14:15:43.992;INFO; Database connect and ping successful.
+2018/11/12 14:15:43.993;INFO; Starting the HTTP server
+2018/11/12 14:15:46.602;INFO; Serving addLink.
+2018/11/12 15:24:57.256;INFO; Database connect and ping successful.
+2018/11/12 15:24:57.261;INFO; Starting the HTTP server
+2018/11/12 15:25:01.501;INFO; Serving addLink.
+2018/11/12 15:26:22.297;INFO; Database connect and ping successful.
+2018/11/12 15:26:22.298;INFO; Starting the HTTP server
+2018/11/12 15:26:24.914;INFO; Serving addLink.
+2018/11/12 15:28:25.306;INFO; Database connect and ping successful.
+2018/11/12 15:28:25.307;INFO; Starting the HTTP server
+2018/11/12 15:28:29.21;INFO; Serving addLink.
+2018/11/12 15:34:19.728;INFO; Database connect and ping successful.
+2018/11/12 15:34:19.729;INFO; Starting the HTTP server
+2018/11/12 15:34:24.329;INFO; Serving index.
+2018/11/12 15:34:29.672;INFO; Serving index2.
+2018/11/12 15:34:37.006;INFO; Serving addLink.
+2018/11/12 15:37:56.901;INFO; Serving addLink.
+2018/11/12 15:39:46.782;INFO; Database connect and ping successful.
+2018/11/12 15:39:46.783;INFO; Starting the HTTP server
+2018/11/12 15:39:49.652;INFO; Serving addLink.
+2018/11/12 15:42:15.539;INFO; Serving addLink.
+2018/11/12 15:46:21.902;INFO; Serving addLink.
+2018/11/12 15:46:43.474;INFO; Serving addLink.
+2018/11/12 15:47:07.615;INFO; Serving addLink.
+2018/11/12 15:47:37.363;INFO; Serving addLink.
+2018/11/12 15:48:44.688;INFO; Serving addLink.
+2018/11/12 15:48:57.825;INFO; Serving addLink.
+2018/11/12 15:49:09.908;INFO; Serving addLink.
+2018/11/12 15:49:30.843;INFO; Serving addLink.
+2018/11/12 15:49:42.142;INFO; Serving addLink.
+2018/11/12 15:49:52.054;INFO; Serving addLink.
+2018/11/12 15:50:13.942;INFO; Serving addLink.
+2018/11/12 15:50:17.389;INFO; Serving addLink.
+2018/11/12 15:50:21.361;INFO; Serving addLink.
+2018/11/12 15:50:48.143;INFO; Serving addLink.
+2018/11/12 15:51:50.094;INFO; Serving addLink.
+2018/11/12 15:51:54.135;INFO; Serving addLink.
+2018/11/12 15:52:45.243;INFO; Serving addLink.
+2018/11/12 15:52:57.175;INFO; Serving addLink.
+2018/11/12 15:53:01.056;INFO; Serving addLink.
+2018/11/12 15:53:04.59;INFO; Serving addLink.
+2018/11/12 15:53:18.111;INFO; Serving addLink.
+2018/11/12 15:53:34.593;INFO; Serving addLink.
+2018/11/12 15:53:47.47;INFO; Serving addLink.
+2018/11/12 15:54:19.264;INFO; Serving addLink.
+2018/11/13 09:17:51.309;INFO; Database connect and ping successful.
+2018/11/13 09:17:51.311;INFO; Starting the HTTP server
+2018/11/13 09:23:17.178;INFO; Database connect and ping successful.
+2018/11/13 09:23:17.179;INFO; Starting the HTTP server
+2018/11/13 09:23:25.599;INFO; Serving index.
+2018/11/13 09:23:30.856;INFO; Serving index2.
+2018/11/13 09:24:25.729;INFO; Database connect and ping successful.
+2018/11/13 09:24:25.731;INFO; Starting the HTTP server
+2018/11/13 09:24:28.921;ERROR; Error executing index template.; html/template: "addLink.html" is undefined
+2018/11/13 09:24:33.817;ERROR; Error executing index template.; html/template: "addLink.html" is undefined
+2018/11/13 09:34:08.709;INFO; Database connect and ping successful.
+2018/11/13 09:34:08.714;INFO; Starting the HTTP server
+2018/11/13 09:34:14.733;ERROR; Error executing index template.; html/template: "addLink.html" is undefined
+2018/11/13 09:35:36.639;INFO; Database connect and ping successful.
+2018/11/13 09:35:36.64;INFO; Starting the HTTP server
+2018/11/13 09:35:46.53;INFO; Serving addLink.
+2018/11/13 09:36:21.413;INFO; Serving index.
+2018/11/13 09:39:27.553;INFO; Database connect and ping successful.
+2018/11/13 09:39:27.558;INFO; Starting the HTTP server
+2018/11/13 09:39:31.835;INFO; Serving index.
+2018/11/13 09:40:40.322;INFO; Database connect and ping successful.
+2018/11/13 09:40:40.323;INFO; Starting the HTTP server
+2018/11/13 09:40:47.762;INFO; Serving addLink.
+2018/11/13 09:41:07.51;INFO; Serving index.
+2018/11/13 09:42:04.222;INFO; Serving addLink.
+2018/11/13 09:42:15.369;INFO; Serving index.
+2018/11/13 09:42:23.45;INFO; Database connect and ping successful.
+2018/11/13 09:42:23.451;INFO; Starting the HTTP server
+2018/11/13 09:42:25.455;INFO; Serving index.
+2018/11/13 09:42:29.704;INFO; Serving index.
+2018/11/13 09:42:49.874;INFO; Serving index.
+2018/11/13 09:42:55.052;INFO; Serving addLink.
+2018/11/13 09:43:13.871;INFO; Database connect and ping successful.
+2018/11/13 09:43:13.873;INFO; Starting the HTTP server
+2018/11/13 09:43:23.225;INFO; Serving addLink.
+2018/11/13 09:54:38.802;INFO; Serving index.
+2018/11/13 09:55:06.602;INFO; Database connect and ping successful.
+2018/11/13 09:55:06.603;INFO; Starting the HTTP server
+2018/11/13 09:55:14.533;INFO; Serving addLink.
+2018/11/13 09:55:24.177;INFO; Inserting testhttp://www.testing.comPagingtestinto links.
+2018/11/13 09:55:24.177;INFO; Hey dumbass implement a a model to insert links.
+2018/11/13 09:55:24.214;INFO; Serving addLink.
+2018/11/13 10:27:55.89;INFO; Database connect and ping successful.
+2018/11/13 10:27:55.891;INFO; Starting the HTTP server
+2018/11/13 10:27:59.126;INFO; Serving index.
+2018/11/13 10:30:22.769;INFO; Serving addLink.
+2018/11/13 10:31:31.31;INFO; Database connect and ping successful.
+2018/11/13 10:31:31.311;INFO; Starting the HTTP server
+2018/11/13 10:31:35.627;ERROR; Error executing index template.; html/template: "index2.html" is undefined
+2018/11/13 10:32:03.469;INFO; Database connect and ping successful.
+2018/11/13 10:32:03.47;INFO; Starting the HTTP server
+2018/11/13 10:32:15.132;INFO; Serving index2.
+2018/11/13 10:32:16.448;INFO; Serving index2.
+2018/11/13 10:32:41.821;INFO; Serving index2.
+2018/11/13 10:32:42.737;INFO; Serving index2.
+2018/11/13 10:32:48.964;INFO; Database connect and ping successful.
+2018/11/13 10:32:48.965;INFO; Starting the HTTP server
+2018/11/13 10:32:54.518;INFO; Serving index2.
+2018/11/13 10:34:09.57;INFO; Database connect and ping successful.
+2018/11/13 10:34:09.571;INFO; Starting the HTTP server
+2018/11/13 10:34:13.112;INFO; Serving index2.
+2018/11/13 10:34:32.395;INFO; Database connect and ping successful.
+2018/11/13 10:34:32.397;INFO; Starting the HTTP server
+2018/11/13 10:34:36.096;INFO; Serving index2.
+2018/11/13 10:34:37.108;INFO; Serving index2.
+2018/11/13 10:35:36.363;INFO; Serving index2.
+2018/11/13 15:08:38.912;INFO; Database connect and ping successful.
+2018/11/13 15:08:38.913;INFO; Starting the HTTP server
+2018/11/13 15:08:50.046;INFO; Serving index2.
+2018/11/13 15:08:58.225;INFO; Serving addLink.
+2018/11/13 15:11:49.171;INFO; Serving index2.
+2018/11/13 15:40:18.559;INFO; Database connect and ping successful.
+2018/11/13 15:40:18.56;INFO; Starting the HTTP server
+2018/11/13 15:40:23.353;INFO; Serving addLink.
+2018/11/13 15:42:33.969;INFO; Database connect and ping successful.
+2018/11/13 15:42:33.97;INFO; Starting the HTTP server
+2018/11/13 15:42:36.107;INFO; Serving addLink.
+2018/11/13 15:42:52.328;INFO; Serving addLink.
+2018/11/13 15:44:34.946;INFO; Database connect and ping successful.
+2018/11/13 15:44:34.948;INFO; Starting the HTTP server
+2018/11/13 15:44:36.952;INFO; Serving addLink.
+2018/11/13 15:59:11.68;INFO; Database connect and ping successful.
+2018/11/13 15:59:11.683;INFO; Starting the HTTP server
+2018/11/13 15:59:14.647;INFO; Serving addLink.
+2018/11/13 15:59:37.414;INFO; Database connect and ping successful.
+2018/11/13 15:59:37.417;INFO; Starting the HTTP server
+2018/11/13 15:59:38.467;ERROR; Error executing index template.; template: insertLink.html:50:2: executing "insertLink.html" at <.Name>: can't evaluate field Name in type []*models.Category
+2018/11/13 15:59:42.408;ERROR; Error executing index template.; template: insertLink.html:50:2: executing "insertLink.html" at <.Name>: can't evaluate field Name in type []*models.Category
+2018/11/13 16:01:32.343;INFO; Database connect and ping successful.
+2018/11/13 16:01:32.346;INFO; Starting the HTTP server
+2018/11/13 16:01:35.806;INFO; Serving addLink.
+2018/11/13 16:06:25.06;INFO; Database connect and ping successful.
+2018/11/13 16:06:25.062;INFO; Starting the HTTP server
+2018/11/13 16:06:27.504;INFO; Serving addLink.
+2018/11/13 16:18:45.578;INFO; Database connect and ping successful.
+2018/11/13 16:18:45.579;INFO; Starting the HTTP server
+2018/11/13 16:18:48.253;INFO; Serving addLink.
+2018/11/13 16:18:53.369;INFO; Serving addLink.
+2018/11/13 16:19:46.614;INFO; Database connect and ping successful.
+2018/11/13 16:19:46.62;INFO; Starting the HTTP server
+2018/11/13 16:19:49.583;INFO; Serving addLink.
+2018/11/13 16:19:54.052;INFO; Serving addLink.
+2018/11/13 17:17:37.311;INFO; Serving index2.
+2018/11/13 17:20:51.041;INFO; Serving index2.
+2018/11/13 17:20:51.98;INFO; Serving index2.
+2018/11/13 17:21:11.362;INFO; Serving index2.
+2018/11/13 17:21:12.251;INFO; Serving index2.
+2018/11/13 17:21:28.332;INFO; Serving addLink.
+2018/11/13 17:23:09.787;INFO; Inserting Factory Coms.http://rf3-apps-fc.rf3prod.mfg.intel.com/FCWeb intoPaging links.
+2018/11/13 17:23:09.806;INFO; Serving addLink.
+2018/11/13 17:23:40.385;INFO; Inserting AFO AMHS Paging Utilityhttp://rf3-apps-fc.rf3prod.mfg.intel.com/FCWeb/Home/PopulateMessage?groupName=AMHS_AET_OTT intoPaging links.
+2018/11/13 17:23:40.414;INFO; Serving addLink.
+2018/11/13 17:24:18.827;INFO; Inserting D1 AMHS Paging Utilityhttp://rf3-apps-fc.rf3prod.mfg.intel.com/FCWeb/AMHSPaging/AMHSPaging/ intoPaging links.
+2018/11/13 17:24:18.846;INFO; Serving addLink.
+2018/11/13 17:26:00.135;INFO; Inserting Accountshttp://accountswiki.intel.com/index.php?title=Main_Page intoFactory Links links.
+2018/11/13 17:26:00.154;INFO; Serving addLink.
+2018/11/13 17:26:39.864;INFO; Inserting Acct. Lockout Rep.https://accountlockoutreports.intel.com/ intoFactory Links links.
+2018/11/13 17:26:39.886;INFO; Serving addLink.
+2018/11/13 17:27:03.817;INFO; Inserting AFO Homehttps://sp2010.amr.ith.intel.com/sites/AFO/default.aspx intoFactory Links links.
+2018/11/13 17:27:03.833;INFO; Serving addLink.
+2018/11/13 17:27:46.736;INFO; Inserting D1 HelpPagehttp://fabwiki.intel.com/index.php?title=D1_HelpPage intoFactory Links links.
+2018/11/13 17:27:46.756;INFO; Serving addLink.
+2018/11/13 17:28:30.529;INFO; Inserting D1D Customer Resourceshttp://fabwiki.intel.cm/index.php?title=Rf3-support/Customer_Resources intoFactory Links links.
+2018/11/13 17:28:30.55;INFO; Serving addLink.
+2018/11/13 17:29:23.455;INFO; Inserting D1 Home Pagehttp://d1.intel.com/ intoFactory Links links.
+2018/11/13 17:29:23.485;INFO; Serving addLink.
+2018/11/13 17:38:09.097;INFO; Inserting Fab Dashboardhttp://rf3pap216-web.rf3prod.mfg.intel.com/FabDashboard/default.aspx intoFactory Links links.
+2018/11/13 17:38:09.119;INFO; Serving addLink.
+2018/11/13 17:38:50.182;INFO; Inserting FabSnoophttp://ltd-apps-fabsnoop.rf3prod.mfg.intel.com/default.asp intoFactory Links links.
+2018/11/13 17:38:50.205;INFO; Serving addLink.
+2018/11/13 17:39:13.597;INFO; Inserting LTD Homehttp://ltd.intel.com intoFactory Links links.
+2018/11/13 17:39:13.622;INFO; Serving addLink.
+2018/11/13 17:39:51.685;INFO; Inserting MSD Supporthttp://msd.intel.com/ intoFactory Links links.
+2018/11/13 17:39:51.706;INFO; Serving addLink.
+2018/11/13 17:40:31.038;INFO; Inserting Intel Recognitionhttps://recognition.intel.com/ intoFactory Links links.
+2018/11/13 17:40:31.055;INFO; Serving addLink.
+2018/11/13 17:41:01.078;INFO; Inserting Pilot Line Trackerhttp://rf3-et.rf3prod.mfg.intel.com/ intoFactory Links links.
+2018/11/13 17:41:01.102;INFO; Serving addLink.
+2018/11/13 17:41:28.147;INFO; Inserting SPC# Anywherehttp://goto/d1dsaw intoFactory Links links.
+2018/11/13 17:41:28.175;INFO; Serving addLink.
+2018/11/13 17:42:03.262;INFO; Inserting TD Fab Opshttp://rf3-apps-fuzion.rf3prod.mfg.intel.com/PassdownView.aspx?tabid=11&amp;FAID=416&amp;GID=1334 intoFactory Links links.
+2018/11/13 17:42:03.279;INFO; Serving addLink.
+2018/11/13 17:45:10.992;INFO; Inserting Ue LTDhttp://rf3-apps-dsshub.rf3prod.mfg.intel.com/ltd/ intoFactory Links links.
+2018/11/13 17:45:11.004;INFO; Serving addLink.
+2018/11/13 17:45:46.259;INFO; Inserting Vistahttp://rf3-apps-vista.rf3prod.mfg.intel.com/Vista/Specs/1dms.asp intoFactory Links links.
+2018/11/13 17:45:46.283;INFO; Serving addLink.
+2018/11/13 17:46:13.926;INFO; Inserting WASPhttp://goto/wasp intoFactory Links links.
+2018/11/13 17:46:13.935;INFO; Serving addLink.
+2018/11/13 17:46:59.696;INFO; Inserting Where's My Lothttp://rf3-wml.rf3prod.mfg.intel.com/ intoFactory Links links.
+2018/11/13 17:46:59.71;INFO; Serving addLink.
+2018/11/13 17:47:59.528;INFO; Inserting WIINGShttps://fmweb.intel.com/FactoryPortal/Home.aspx intoFactory Links links.
+2018/11/13 17:47:59.538;INFO; Serving addLink.
+2018/11/13 17:48:28.499;INFO; Inserting XI3http://ltd3-reports-xi.rf3prod.mfg.intel.com:8080/InfoViewApp/logon.jsp intoFactory Links links.
+2018/11/13 17:48:28.511;INFO; Serving addLink.
+2018/11/18 14:34:59.707;INFO; Database connect and ping successful.
+2018/11/18 14:34:59.709;INFO; Starting the HTTP server
+2018/11/18 14:35:50.419;INFO; Serving addLink.
+2018/11/18 14:43:37.238;INFO; Database connect and ping successful.
+2018/11/18 14:43:37.24;INFO; Starting the HTTP server
+2018/11/18 14:44:46.549;INFO; Database connect and ping successful.
+2018/11/18 14:44:46.55;INFO; Starting the HTTP server
+2018/11/18 14:45:56.629;INFO; Database connect and ping successful.
+2018/11/18 14:48:15.835;INFO; Database connect and ping successful.
+2018/11/18 14:50:56.883;INFO; Database connect and ping successful.

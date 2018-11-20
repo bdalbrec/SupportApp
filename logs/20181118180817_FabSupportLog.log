@@ -1,0 +1,156 @@
+2018/11/18 14:50:56.885;INFO; Starting the HTTP server
+2018/11/18 14:55:12.845;INFO; Inserting Active Alertshttps://jakarta.rf3prod.mfg.intel.com/cms/activealerts.dodo intoFAST Links links.
+2018/11/18 14:55:12.975;INFO; Serving addLink.
+2018/11/18 14:55:34.521;INFO; Inserting ADC Call Matrixhttp://rcamacke-dev2/acdcalls/LTD_CALLS_NOPP.xlsx intoFAST Links links.
+2018/11/18 14:55:34.529;INFO; Serving addLink.
+2018/11/18 14:56:01.992;INFO; Inserting ADOM Report Mailerhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/ADOM/SitePages/ADOMReport_mailer.aspx intoFAST Links links.
+2018/11/18 14:56:02.002;INFO; Serving addLink.
+2018/11/18 14:56:23.541;INFO; Inserting Auto Dashboardhttp://autodash.rf3prod.mfg.intel.com/Dashboard/default.aspx intoFAST Links links.
+2018/11/18 14:56:23.557;INFO; Serving addLink.
+2018/11/18 14:56:43.563;INFO; Inserting AutoWikihttp://autowiki.intel.com intoFAST Links links.
+2018/11/18 14:56:43.569;INFO; Serving addLink.
+2018/11/18 14:58:37.138;INFO; Inserting AWIThttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Lists/AWIT/Open%20items.aspx intoPaging links.
+2018/11/18 14:58:37.147;INFO; Serving addLink.
+2018/11/18 14:58:57.393;INFO; Inserting Calendarhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Lists/Calendar/calendar.aspx intoFAST Links links.
+2018/11/18 14:58:57.399;INFO; Serving addLink.
+2018/11/18 14:59:59.418;INFO; Inserting Cisco/Genesys OutageCiscoGenesys.html intoPaging links.
+2018/11/18 14:59:59.427;INFO; Serving addLink.
+2018/11/18 15:00:30.607;INFO; Inserting D1D CC Infohttp://rf3-apps-dss-reports.rf3prod.mfg.intel.com/_D1D/P1272/General/pvericks/ExceptionNotification/cc+info/0.htm intoFAST Links links.
+2018/11/18 15:00:30.634;INFO; Serving addLink.
+2018/11/18 15:00:56.552;INFO; Inserting EAM Comparehttp://gosapps.intel.com/EAMCompareTool/Default.aspx intoPaging links.
+2018/11/18 15:00:56.56;INFO; Serving addLink.
+2018/11/18 15:01:17.879;INFO; Inserting Easy Taskhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Winclient%20Build%20Checklist/Forms/FAST%20view.aspx intoFAST Links links.
+2018/11/18 15:01:17.887;INFO; Serving addLink.
+2018/11/18 15:01:41.584;INFO; Inserting eRequesthttp://cserequest.intel.com/erequest intoFAST Links links.
+2018/11/18 15:01:41.596;INFO; Serving addLink.
+2018/11/18 15:02:06.83;INFO; Inserting Escalation Matrixhttp://autowiki.intel.com/index.php?title=IssueManagement/defaultescalationmatrix.asp intoFAST Links links.
+2018/11/18 15:02:06.839;INFO; Serving addLink.
+2018/11/18 15:02:48.794;INFO; Inserting FAB Critical Messagehttp://fabwiki.intel.com/index.php?title=Special:FabCriticalMessage intoFAST Links links.
+2018/11/18 15:02:48.802;INFO; Serving addLink.
+2018/11/18 15:03:13.401;INFO; Inserting FAST Docshttp://autowiki.intel.com/index.php?title=Special:FastDocs intoFAST Links links.
+2018/11/18 15:03:13.42;INFO; Serving addLink.
+2018/11/18 15:03:53.247;INFO; Inserting FAST Fuzionhttp://rf3-apps-fuzion.rf3prod.mfg.intel.com/PassdownView.aspx?tabid=11&FAID=9&GID=931 intoFAST Links links.
+2018/11/18 15:03:53.272;INFO; Serving addLink.
+2018/11/18 15:04:17.057;INFO; Inserting FAST Fuzion Historyhttp://rf3pvwb471n1.rf3prod.mfg.intel.com//FuzionHistoryGrabber/fastpassdownhistory.html intoFAST Links links.
+2018/11/18 15:04:17.065;INFO; Serving addLink.
+2018/11/18 15:04:57.562;INFO; Inserting FAST IMBOhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Lists/IMBO/defaultView.aspx intoFAST Links links.
+2018/11/18 15:04:57.572;INFO; Serving addLink.
+2018/11/18 15:05:18.927;INFO; Inserting FAST Sharepointhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/default.aspx intoFAST Links links.
+2018/11/18 15:05:18.934;INFO; Serving addLink.
+2018/11/18 15:05:57.537;INFO; Inserting FAST Shift Rosterhttp://autowiki.intel.com/index.php?title=Category:FAST#FAST_Agent:_Level_1_Status_and_Level_2_Specialties intoFAST Links links.
+2018/11/18 15:05:57.55;INFO; Serving addLink.
+2018/11/18 15:06:16.954;INFO; Inserting FAST Wikihttp://autowiki.intel.com/index.php?title=Category:FAST intoFAST Links links.
+2018/11/18 15:06:16.976;INFO; Serving addLink.
+2018/11/18 15:06:50.072;INFO; Inserting Hardware Trackerhttp://rf3pvwb471n1.rf3prod.mfg.intel.com/HardwareTracking/ intoFAST Links links.
+2018/11/18 15:06:50.089;INFO; Serving addLink.
+2018/11/18 15:11:57.851;INFO; Inserting Insertion Horizonhttp://rf3-apps-fuzion.rf3prod.mfg.intel.com/PassdownView.aspx?tabid=11&amp;FAID=9&amp;GID=707 intoFAST Links links.
+2018/11/18 15:11:57.859;INFO; Serving addLink.
+2018/11/18 15:12:29.14;INFO; Inserting Intel Worker Queryhttps://workers.intel.com/#/ intoFAST Links links.
+2018/11/18 15:12:29.156;INFO; Serving addLink.
+2018/11/18 15:12:52.733;INFO; Inserting LSS Tool Lookuphttp://or-lss.intel.com/BasicSearch/BasicSearch intoFAST Links links.
+2018/11/18 15:12:52.747;INFO; Serving addLink.
+2018/11/18 15:13:27.529;INFO; Inserting Mission Modehttp://autowiki.intel.com/index.php?title=Procedure:_Initiating_ENS_Notifications_Using_Mission_Mode intoFAST Links links.
+2018/11/18 15:13:27.538;INFO; Serving addLink.
+2018/11/18 15:13:55.347;INFO; Inserting MOC Schedulehttp://goto.intel.com/d1d_moc intoFAST Links links.
+2018/11/18 15:13:55.36;INFO; Serving addLink.
+2018/11/18 15:14:20.603;INFO; Inserting PAMhttps://passmanagement.intel.com intoFAST Links links.
+2018/11/18 15:14:20.617;INFO; Serving addLink.
+2018/11/18 15:14:42.336;INFO; Inserting PEMhttp://autowiki.intel.com/index.php?title=PEM intoFAST Links links.
+2018/11/18 15:14:42.346;INFO; Serving addLink.
+2018/11/18 15:15:09.601;INFO; Inserting SECS Tomehttp://www.hume.com/secs/msgindex.html intoFAST Links links.
+2018/11/18 15:15:09.612;INFO; Serving addLink.
+2018/11/18 15:15:36.361;INFO; Inserting Security Role Mappinghttp://rf3dvap360.ltdauto.intel.com:8085/MartWebapp/Report/Workflow-UseCase-SecurityRole.aspx intoFAST Links links.
+2018/11/18 15:15:36.37;INFO; Serving addLink.
+2018/11/18 15:16:04.606;INFO; Inserting Service Nowhttps://jakarta.rf3prod.mfg.intel.com intoPaging links.
+2018/11/18 15:16:04.614;INFO; Serving addLink.
+2018/11/18 15:16:41.224;INFO; Inserting Service Now - oldhttps://snow.rf3prod.mfg.intel.com/ intoPaging links.
+2018/11/18 15:16:41.233;INFO; Serving addLink.
+2018/11/18 15:17:00.868;INFO; Inserting Service Now Backuphttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Service%20Now%20Alternate/Forms/FAST%20View.aspx intoFAST Links links.
+2018/11/18 15:17:00.875;INFO; Serving addLink.
+2018/11/18 15:17:28.396;INFO; Inserting SWAT Matrix - D1Chttp://autowiki.intel.com/index.php?title=D1C_SWAT intoFAST Links links.
+2018/11/18 15:17:28.411;INFO; Serving addLink.
+2018/11/18 15:17:54.084;INFO; Inserting Tool Location Reportttp://rf3-apps-dss-reports.rf3prod.mfg.intel.com/_D1D/P1272/General/ssavage/ToolLocDM_X3_r.htm intoFAST Links links.
+2018/11/18 15:17:54.095;INFO; Serving addLink.
+2018/11/18 15:18:36.579;INFO; Inserting NEW - Tool Location Reporthttp://xeus-reports.rf3prod.mfg.intel.com/OpenDocument?sPath=[D1D_FAB],[P1272],[ManufacturingEngineering],[spmcgraw]&sDocName=Tool_Bay_Location&sInstance=Last intoFAST Links links.
+2018/11/18 15:18:36.586;INFO; Serving addLink.
+2018/11/18 15:19:05.39;INFO; Inserting Tool Status Reporthttp://rf3-tsr.rf3prod.mfg.intel.com/ intoFAST Links links.
+2018/11/18 15:19:05.4;INFO; Serving addLink.
+2018/11/18 15:19:38.423;INFO; Inserting Virus Scan Audit Trackinghttp://goto/vsat intoFAST Links links.
+2018/11/18 15:19:38.429;INFO; Serving addLink.
+2018/11/18 15:20:06.973;INFO; Inserting Webmin - D1C Sort*http://ra2sun00.rf2prod.mfg.intel.com:443/ intoFAST Links links.
+2018/11/18 15:20:06.989;INFO; Serving addLink.
+2018/11/18 15:20:40.024;INFO; Inserting Webmin - D1D*http://rf3pvxdm401n1.rf3prod.mfg.intel.com:80 intoFAST Links links.
+2018/11/18 15:20:40.029;INFO; Serving addLink.
+2018/11/18 15:21:09.653;INFO; Inserting WAMhttp://autowiki.intel.com/index.php?title=File:WAM.zip intoPaging links.
+2018/11/18 15:21:09.665;INFO; Serving addLink.
+2018/11/18 15:21:34.774;INFO; Inserting Winclient Repairhttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/FAST/Winclient%20Repair%20Checklist/Forms/FAST%20view.aspx intoFAST Links links.
+2018/11/18 15:21:34.787;INFO; Serving addLink.
+2018/11/18 15:21:55.118;INFO; Inserting Winclient Waterfallhttp://autowiki.intel.com/index.php?title=Winclient_Waterfall_AOP intoFAST Links links.
+2018/11/18 15:21:55.125;INFO; Serving addLink.
+2018/11/18 15:25:09.2;INFO; Inserting Central Confighttp://rf3-apps-centralconfig.rf3prod.mfg.intel.com/CentralConfiguration intoAIT Links links.
+2018/11/18 15:25:09.223;INFO; Serving addLink.
+2018/11/18 15:25:44.916;INFO; Inserting FSUIhttp://rf3-apps-centralconfig.rf3prod.mfg.intel.com/CentralConfiguration/FSUI/3.0/Default.aspx intoAIT Links links.
+2018/11/18 15:25:44.927;INFO; Serving addLink.
+2018/11/18 15:26:04.207;INFO; Inserting NTSC Central Confighttp://ltd-auto-ntsccfg.rf3prod.mfg.intel.com/ intoAIT Links links.
+2018/11/18 15:26:04.227;INFO; Serving addLink.
+2018/11/18 15:27:00.496;INFO; Inserting SC.NET Confighttp://rf3-apps-sc.rf3prod.mfg.intel.com/SCConfigUI intoAIT Links links.
+2018/11/18 15:27:00.508;INFO; Serving addLink.
+2018/11/18 15:27:44.291;INFO; Inserting AM Referencehttp://autowiki.intel.com/images/f/f9/AdaptiveManufacturingGeneralReference_4_0.pdf intoAM Links links.
+2018/11/18 15:27:44.306;INFO; Serving addLink.
+2018/11/18 15:28:14.765;INFO; Inserting DTW CRM Viewerhttp://dtw.rf3prod.mfg.intel.com/DTWCRM/_layouts/CRMEditor2/CRMDataViewer.aspx intoMES Links links.
+2018/11/18 15:28:14.781;INFO; Serving addLink.
+2018/11/18 17:49:11.817;INFO; Inserting AutoMon Dashboardfile://rf2p-nas-fabscheduler.rf2prod.mfg.intel.com/fabscheduler/CQT/AutoMon_Dashboard_ALL.html intoAMO Links links.
+2018/11/18 17:49:11.83;INFO; Serving addLink.
+2018/11/18 17:50:05.394;INFO; Inserting AutoMon Healthhttp://autodash.rf3prod.mfg.intel.com/Dashboard/L8/Dashboard_AutoMon.aspx?Page=AutomonHealthDaily intoAMO Links links.
+2018/11/18 17:50:05.403;INFO; Serving addLink.
+2018/11/18 17:50:32.639;INFO; Inserting D1D L8 Dashboardhttp://autodash.rf3prod.mfg.intel.com/Dashboard/?View=L8&RenderWith=Dashboard2&Win=_top intoAMO Links links.
+2018/11/18 17:50:32.672;INFO; Serving addLink.
+2018/11/18 17:51:24.854;INFO; Inserting Mystery Machinehttp://rf3-redwing.rf3prod.mfg.intel.com/Report/MysteryMachine intoPaging links.
+2018/11/18 17:51:24.87;INFO; Serving addLink.
+2018/11/18 17:51:58.441;INFO; Inserting New Mystery Machinehttp://rf3-mysterymachine.rf3prod.mfg.intel.com/ intoAMO Links links.
+2018/11/18 17:51:58.45;INFO; Serving addLink.
+2018/11/18 17:52:38.501;INFO; Inserting Reservation Param.http://autodash.rf3prod.mfg.intel.com/Dashboard/?View=L8&RenderWith=Dashboard2&Win=_top intoAMO Links links.
+2018/11/18 17:52:38.524;INFO; Serving addLink.
+2018/11/18 17:53:46.777;INFO; Inserting ASOM Reporthttp://rf3-apps-xeus-reports.rf3prod.mfg.intel.com/D1D_Fab/P1272/General/pvericks/WebPages/AP_Status.html intoEC Links links.
+2018/11/18 17:53:46.786;INFO; Serving addLink.
+2018/11/18 17:54:35.171;INFO; Inserting ECHO UIhttp://rf3-echoui.rf3prod.mfg.intel.com/ intoEC Links links.
+2018/11/18 17:54:35.179;INFO; Serving addLink.
+2018/11/18 17:55:42.456;INFO; Inserting CHaDDhttp://enmc.intel.com/enmc/hct/hct.html intoPaging links.
+2018/11/18 17:55:42.466;INFO; Serving addLink.
+2018/11/18 17:56:40.704;INFO; Inserting CHaDD - NEWhttp://chadd.intel.com intoPlatforms Links links.
+2018/11/18 17:56:40.713;INFO; Serving addLink.
+2018/11/18 17:57:02.747;INFO; Inserting D1 TiPRhttp://ltd-auto-tipr.rf3prod.mfg.intel.com/default.asp intoPlatforms Links links.
+2018/11/18 17:57:02.766;INFO; Serving addLink.
+2018/11/18 17:57:29.856;INFO; Inserting IP Hunt Toolhttp://fmsenmsm02.amr.corp.intel.com/enmc/enmc.html?site=RASENMSP02.ra.intel.com intoPlatforms Links links.
+2018/11/18 17:57:29.867;INFO; Serving addLink.
+2018/11/18 17:57:50.04;INFO; Inserting WebDSIhttp://rf3pvwb471n1.rf3prod.mfg.intel.com/webdsi intoPlatforms Links links.
+2018/11/18 17:57:50.05;INFO; Serving addLink.
+2018/11/18 17:58:15.356;INFO; Inserting Win10 Known Issueshttp://autowiki.intel.com/index.php?title=Win10Client_Build/Deployment_FAQ#D1D_Open_Issues intoPlatforms Links links.
+2018/11/18 17:58:15.364;INFO; Serving addLink.
+2018/11/18 17:58:42.303;INFO; Inserting Windows Shortcutswindows_shortcuts.html intoPlatforms Links links.
+2018/11/18 17:58:42.31;INFO; Serving addLink.
+2018/11/18 17:59:33.435;INFO; Inserting D1C PortalWebhttp://rf2-sort.rf2prod.mfg.intel.com/PW/welcome.asp intoSORT Links links.
+2018/11/18 17:59:33.442;INFO; Serving addLink.
+2018/11/18 17:59:49.209;INFO; Inserting DieSort PortalWebhttp://rf2pwb515.rf2prod.mfg.intel.com/PWDS/SDXDispo.asp intoSORT Links links.
+2018/11/18 17:59:49.215;INFO; Serving addLink.
+2018/11/18 18:00:16.245;INFO; Inserting Die Sort Winclient Guidehttps://securewiki.ith.intel.com/display/ATTDAuto/Die+Sort+SC+Access+guide intoSORT Links links.
+2018/11/18 18:00:16.255;INFO; Serving addLink.
+2018/11/18 18:00:56.908;INFO; Inserting Die Sort L2 Supporthttps://securewiki.ith.intel.com/display/ATTDAuto/OTD+SC+L2+Support intoSORT Links links.
+2018/11/18 18:00:56.92;INFO; Serving addLink.
+2018/11/18 18:01:19.341;INFO; Inserting Die Sort Troubleshootinghttps://securewiki.ith.intel.com/display/ATTDAuto/ATTD+Automation+Home intoSORT Links links.
+2018/11/18 18:01:19.349;INFO; Serving addLink.
+2018/11/18 18:01:56.022;INFO; Inserting YAS/Klarity SupportYAS_Klarity.html intoYAS Links links.
+2018/11/18 18:01:56.036;INFO; Serving addLink.
+2018/11/18 18:06:20.107;INFO; Inserting AFO AMHS MapGraphics_Library/afo_amhs_map.jpg intoAMHS Links links.
+2018/11/18 18:06:20.128;INFO; Serving addLink.
+2018/11/18 18:06:36.669;INFO; Inserting D1B AMHS Maphttp://autowiki.intel.com/images/5/53/D1B_AMHS_Map.pdf intoAMHS Links links.
+2018/11/18 18:06:36.682;INFO; Serving addLink.
+2018/11/18 18:06:54.231;INFO; Inserting D1C AMHS Maphttp://autowiki.intel.com/images/5/5f/AMHS_Equipment_Layout_D1C_1270.jpg intoAMHS Links links.
+2018/11/18 18:06:54.248;INFO; Serving addLink.
+2018/11/18 18:07:11.343;INFO; Inserting D1D AMHS MapGraphics_Library/D1D_AMHS.jpg intoAMHS Links links.
+2018/11/18 18:07:11.354;INFO; Serving addLink.
+2018/11/18 18:07:30.653;INFO; Inserting D1X AMHS MapGraphics_Library/D1X_AMHS.jpg intoAMHS Links links.
+2018/11/18 18:07:30.658;INFO; Serving addLink.
+2018/11/18 18:08:00.81;INFO; Inserting OHV Downtime Maphttp://autosp.rf3prod.mfg.intel.com/sites/AutoOps/D1DDomains/MH/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fsites%2FAutoOps%2FD1DDomains%2FMH%2FShared%20Documents%2FDowntime%20Maps&amp;FolderCTID=0x01200051BA52A107518246ABA9FEE8986FCA7B&amp;View={4107E5A5-0734-4596-9DFB-DA255E086740} intoAMHS Links links.
+2018/11/18 18:08:00.824;INFO; Serving addLink.
+2018/11/18 18:08:17.91;INFO; Inserting RB1 AMHS Maphttp://autowiki.intel.com/images/1/18/AMHS_Equipment_Layout_RB1_1270.jpg intoAMHS Links links.

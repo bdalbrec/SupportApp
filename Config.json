@@ -4,5 +4,5 @@
     "username" : "FSAUser",
     "password" : "FASTAuto1!",
     "database" : "FastSupportApp",
-    "logname" : "logs/FabSupportLog.log"
+    "logname" : "FabSupportLog.log"
   }

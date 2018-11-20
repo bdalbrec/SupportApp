@@ -1,0 +1,177 @@
+﻿#header {
+text-align: center;
+}
+
+h1 {
+    color: #FF4900;
+    font-size: 3em; /*was 2 - changed for Farzad*/
+}
+
+#wrapper {
+    background-color: #0071C5;
+    border: outset 2px #BDBDBD;
+    border-radius: 30px;
+    color: White;
+    max-width: 1024px;
+    margin: 10px auto 0 auto;
+    position: relative;
+    width: 100%;
+    
+    
+        /* Drop Shadow */
+    -webkit-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+    
+}
+
+#searchResults {
+    background-color: #FFFFFF;
+    opacity: .7;
+    color: Black;
+    width: 144px;
+    height: 150px;
+    overflow: hidden;
+    position: absolute;
+    right: 41px;
+    top: 90px;
+    visibility: hidden;
+    z-index: 10;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+           /* Drop Shadow */
+    -webkit-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+    box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+}
+
+#searchResults a {
+    color: #000000;
+}
+
+#searchResults ul {
+    padding-left: 9px;
+    font-family: futura;
+    font-size: 11pt;   
+}
+
+#searchResults li {
+    list-style-type: none;  
+}
+   
+#searchBox { 
+    position: absolute;
+    top: 70px; /* was 50 with smaller fonts */
+    right: 40px;
+    padding-bottom: 0;
+}
+
+
+/* homeBox takes the place of searchbox on sub-pages*/
+#homeBox { 
+    position: absolute;
+    color: #FF9200;
+    top: 70px; /* was 50 with smaller fonts */
+    right: 80px;
+    padding-bottom: 0;
+}
+
+
+a {
+    color: White;
+}      
+    
+#toggle-view {
+	list-style:none;	
+	font-family:arial;
+	font-size:11px;
+	max-width: 1024px;
+	margin:0 auto 0 auto;
+	padding:0px;
+	width:100%;
+}
+
+	#toggle-view li {
+		margin:10px;
+		border-top: 1px solid #ccc;
+		clear: left;
+		position:relative;
+		cursor:pointer;
+	}
+	
+	#toggle-view h2 {
+		color: #FFBF00;
+		margin:0;
+		text-align: center;
+		font-size: 2em; /*was 1.5* - changed for Farzad*/
+	}
+
+	#toggle-view span {
+		position:absolute;
+		right:5px; 
+		top:0;
+		color:#ccc;
+		font-size:13px;
+	}
+	
+	#toggle-view .panel {
+		margin:5px 0;
+		display:none;
+	}
+	 	
+    #toggle-view li ul li {
+        border-bottom: none;
+        border-top: none;
+        clear: none;
+        float: left;
+        list-style-type: none;
+        position: relative;
+        width: 20%;
+        font-size: 13px; /*was unspecified - changed for Farzad*/
+    }
+
+    #toggle-view li ul li a:hover {
+        color: lightgray;       
+    }
+
+
+
+	#toggle-view li ul {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 5px;
+        position: relative;
+        width: 99%;
+    } 
+	
+#footer {
+    border-top: 1px solid #ccc;
+    color: #FF9200; 
+    font-size: 11px; /* was 10px at original design */
+    text-align: center;
+    clear: left;
+}	
+
+#footer a {
+    color: #FF9200;
+}
+
+
+
+#toDo {
+    color: darkgray;
+}
+
+
+#sortable_table_id_1 {
+    margin: auto;
+}
+
+#rosterLegend {
+    margin-left: 105px;
+}
+
+#fastMatrixShifts {
+    margin-left: 75px;
+}

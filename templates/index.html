@@ -1,27 +1,91 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="public/main.css">
-    <title>FAST Support App</title>
+    <title>FAST Support Page</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- This fixes the stupid compatibility mode for intranet sites by forcing it to use most modern browser version. -->
+    <link rel="Stylesheet" type="text/css" href="/public/stylesheets/stylesheet.css">
+    <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/x-icon">
+    <script src="/public/scripts/jquery-1.11.1.min.js"></script>
+    <script src="/public/scripts/modernizr.custom.79706.js"></script>
 
 </head>
+
 <body>
-    <div class="wrapper">
-        <header>
-            <div class="bg-image"></div>
-            <h1>D1 FAST Support</h1>
-            <h3>Delight Our Customers</h3>
-        </header>
-        <nav class="box" id="nav"></nav>
-        <div class="box content">Content</div>
-        <footer class="box footer">
-            <script src="public/scripts/main.js"></script>
-            Page Owner - <a target="_blank" href="mailto:brian.d.albrecht@intel.com?subject=FAST Support Application feedback">Brian Albrecht</a> | Last refresh <script src="public/scripts/FileDate.js"></script>
-        </footer>
+
+
+    <div id="wrapper">
+
+
+
+
+
+    <div id="header">
+        <h1>Delight Our Customers</h1>
+        <input type="text" id="searchBox" name="searchBox" placeholder="Search" autofocus/>
+      <!--  <label for="searchString>Search</label> -->
     </div>
 
+
+
+    <div id="content">
+        <ul id="toggle-view"> 
+
+            <li>
+                <h2 class="header">Phone Numbers</h2>
+                <span>+</span>
+                <div class="panel">
+                    <ul>
+                        <li><strong>Audio Bridge Support</strong> - 916-377-8987</li>
+                        <li><strong>AFO Pack & Ship</strong> - 971-215-4445</li>
+                        <li><strong>AOG L3 or CAS</strong> - 8-723-3716</li>
+                        <li><strong>AOG L3/CAS Dir</strong> - 408-723-3716</li>
+                        <li><strong>BLS Oncall</strong> - 8-356-7996</li>
+                        <li><strong>Cisco Phone Support</strong> - 1+(916)377-9959</li>
+                        <li><strong>CMS Server Issues </strong> - 8-377-0798</li>
+                        <li><strong>COS Hotline</strong> - 971-214-2222</li>
+                        <li><strong>D1C Bridge (Option 4)</strong> - 855-276-0859</li>
+                        <li><strong>D1C Bridge (Option 5)</strong> - 855-276-0860</li>
+                        <li><strong>D1C Frontdoor</strong> - 503-613-FAST</li>
+                        <li><strong>D1C Front Tollfree</strong> - 800-230-7472</li>
+                        <li><strong>D1C Sort</strong> - 8-613-3099</li>
+                        <li><strong>D1D Bridge (Option 7)</strong> - 781-448-0418</li>
+                        <li><strong>D1D Bridge (Option 8)</strong> - 781-448-0342</li>
+                        <li><strong>D1D Frontdoor</strong> - 971-214-FAST</li>
+                        <li><strong>D1D Front Tollfree</strong> - 866-861-8768</li>
+                        <li><strong>D1D Muratec</strong> 8-214-6785</li>
+                        <li><strong>D1D SK/Daifuku</strong> - 8-214-0148/0149</li>
+                        <li><strong>Secret Bridge (Option 11)</strong> - 319-527-3859</li>
+                        <li><strong>Secret Bridge (Option 12)</strong> - 319-527-3787</li>
+                        <li><strong>Genesys Phone Support</strong> - (480)-723-5013</li>
+                        <li><strong>Genesys Phone BackDoor</strong> - (480)-723-2886</li>
+                        <li><strong>IT TAC</strong> - 8-696-1234</li>
+                        <li><a target="_blank" href="Front Door Phone Menu.html" title="phone extension FAST">Front Door Menu</a></li>
+                        <li><strong>TAC Direct</strong> - 503-696-1234</li>
+                        <li><strong>Sprint</strong> - 866-809-7766</li>
+                    </ul>
+                </div>
+            </li>
+           
+            <script src="/public/scripts/nav.js"></script>
+
+        </ul>
+
+    </div>
+
+
+        <div id="footer">
+            <p>Page Owner - <a target="_blank" href="mailto:brian.d.albrecht@intel.com?subject=FAST Quick Reference Feedback">Brian Albrecht</a> | <a tartet="_blank" href="revision_history.html">Last updated <script src="/public/scripts/FileDate.js"></script></a></p>
+        </div>
+
+        <div id="searchResults">
+            <ul id="results">
+            </ul>
+        </div>
+
+
+    </div> <!-- End Wrapper -->
+    <script src="/public/scripts/SliderScript.js"></script>
+    <script src="/public/scripts/searchscript.js"></script>
 </body>
 </html>
