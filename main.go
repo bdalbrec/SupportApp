@@ -51,7 +51,7 @@ func index(w http.ResponseWriter, req *http.Request) {
 		sll.LogError("Error executing index template.", logname, err)
 		return
 	}
-	sll.LogInfo("Serving index2.", logname)
+	sll.LogInfo("Serving index.", logname)
 }
 
 
