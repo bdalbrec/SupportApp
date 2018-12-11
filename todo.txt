@@ -1,9 +1,8 @@
-Create a page to add categories
-Reconsider AJAX for filling out categories.
-Get links onto page
-New table and way to handle phone numbers???
+Create a page to edit links
+Create a page to edit phone numbers
 Change search to AJAX calls to database instead of page scraping
 Implement authentication
 Lock editing pages behind authentication
 Tie authentication into CDIS (whatever replaced it)
 Implement Favorites
+Deploy to Intel Cloud Foundary

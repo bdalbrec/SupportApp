@@ -8,3 +8,277 @@
 2018/12/02 17:11:27.374;INFO; Database connect and ping successful.
 2018/12/02 17:11:27.376;INFO; Starting the HTTP server
 2018/12/02 17:11:30.301;INFO; Serving index2.
+2018/12/02 18:48:33.404;INFO; Database connect and ping successful.
+2018/12/02 18:48:33.405;INFO; Starting the HTTP server
+2018/12/02 18:48:41.679;INFO; Serving index.
+2018/12/02 18:48:55.832;INFO; Serving index.
+2018/12/02 18:49:22.879;INFO; Serving addLink.
+2018/12/02 19:03:06.554;INFO; Serving index.
+2018/12/02 19:04:54.492;INFO; Database connect and ping successful.
+2018/12/02 19:04:54.493;INFO; Starting the HTTP server
+2018/12/02 19:04:58.34;INFO; Serving index.
+2018/12/02 19:10:47.233;INFO; Database connect and ping successful.
+2018/12/02 19:10:47.234;INFO; Starting the HTTP server
+2018/12/02 19:10:51.164;INFO; Serving index.
+2018/12/02 19:12:18.138;INFO; Database connect and ping successful.
+2018/12/02 19:12:18.139;INFO; Starting the HTTP server
+2018/12/02 19:12:32.353;INFO; Serving index.
+2018/12/03 07:47:27.909;INFO; Database connect and ping successful.
+2018/12/03 07:47:27.915;INFO; Starting the HTTP server
+2018/12/03 07:47:33.309;INFO; Serving index.
+2018/12/03 07:48:50.669;INFO; Database connect and ping successful.
+2018/12/03 07:48:50.67;INFO; Starting the HTTP server
+2018/12/03 07:48:53.381;INFO; Serving index.
+2018/12/03 07:50:16.772;INFO; Database connect and ping successful.
+2018/12/03 07:50:16.773;INFO; Starting the HTTP server
+2018/12/03 07:50:21.683;INFO; Serving index.
+2018/12/03 07:50:43.112;INFO; Database connect and ping successful.
+2018/12/03 07:50:43.113;INFO; Starting the HTTP server
+2018/12/03 07:50:44.326;INFO; Serving index.
+2018/12/03 07:52:38.058;INFO; Database connect and ping successful.
+2018/12/03 07:52:38.059;INFO; Starting the HTTP server
+2018/12/03 07:52:41.367;INFO; Serving index.
+2018/12/03 07:53:56.043;INFO; Serving index.
+2018/12/03 07:57:51.287;INFO; Database connect and ping successful.
+2018/12/03 07:57:51.288;INFO; Starting the HTTP server
+2018/12/03 07:57:53.881;INFO; Serving index.
+2018/12/03 07:59:58.212;INFO; Database connect and ping successful.
+2018/12/03 07:59:58.213;INFO; Starting the HTTP server
+2018/12/03 08:00:27.301;INFO; Database connect and ping successful.
+2018/12/03 08:00:27.302;INFO; Starting the HTTP server
+2018/12/03 08:02:16.841;INFO; Database connect and ping successful.
+2018/12/03 08:02:16.842;INFO; Starting the HTTP server
+2018/12/03 08:02:17.502;INFO; Serving index.
+2018/12/03 08:02:48.037;INFO; Database connect and ping successful.
+2018/12/03 08:02:48.038;INFO; Starting the HTTP server
+2018/12/03 08:02:49.855;INFO; Serving index.
+2018/12/03 08:03:39.691;INFO; Database connect and ping successful.
+2018/12/03 08:03:39.691;INFO; Starting the HTTP server
+2018/12/03 08:03:41.222;INFO; Serving index.
+2018/12/03 08:05:11.17;INFO; Database connect and ping successful.
+2018/12/03 08:05:11.171;INFO; Starting the HTTP server
+2018/12/03 08:05:13.449;INFO; Serving index.
+2018/12/04 18:38:59.468;INFO; Database connect and ping successful.
+2018/12/04 18:38:59.47;INFO; Starting the HTTP server
+2018/12/04 18:39:39.746;INFO; Serving index.
+2018/12/04 18:40:18.623;INFO; Database connect and ping successful.
+2018/12/04 18:40:18.624;INFO; Starting the HTTP server
+2018/12/04 18:40:20.061;INFO; Serving index.
+2018/12/04 18:40:44.156;INFO; Serving index.
+2018/12/04 18:45:39.52;INFO; Serving index.
+2018/12/04 18:45:55.433;INFO; Database connect and ping successful.
+2018/12/04 18:45:55.434;INFO; Starting the HTTP server
+2018/12/04 18:45:57.147;INFO; Serving index.
+2018/12/04 18:46:08.236;INFO; Serving index.
+2018/12/04 18:46:35.867;INFO; Serving index.
+2018/12/04 18:46:52.191;INFO; Serving index.
+2018/12/10 10:34:55.27;INFO; Serving addLink.
+2018/12/10 10:35:00.349;INFO; Serving index.
+2018/12/10 12:20:38.141;INFO; Database connect and ping successful.
+2018/12/10 12:20:38.142;INFO; Starting the HTTP server
+2018/12/10 12:20:41.271;INFO; Serving index.
+2018/12/10 12:20:46.587;INFO; Serving CiscoGenesys.
+2018/12/10 12:20:46.676;INFO; Serving index.
+2018/12/10 12:20:46.687;INFO; Serving index.
+2018/12/10 12:20:46.693;INFO; Serving index.
+2018/12/10 12:21:11.564;INFO; Serving index.
+2018/12/10 12:21:16.662;INFO; Serving FrontDoorPhoneMenu.
+2018/12/10 12:21:16.696;INFO; Serving index.
+2018/12/10 12:21:40.687;INFO; Serving index.
+2018/12/10 12:21:44.225;INFO; Serving YAS_Klarity.
+2018/12/10 12:21:44.595;INFO; Serving index.
+2018/12/10 12:22:46.668;INFO; Serving windows_shortcuts.
+2018/12/10 12:23:23.99;INFO; Serving windows_shortcuts.
+2018/12/10 12:24:47.672;INFO; Serving YAS_Klarity.
+2018/12/10 12:24:48.686;INFO; Serving index.
+2018/12/10 12:27:25.986;INFO; Database connect and ping successful.
+2018/12/10 12:27:25.987;INFO; Starting the HTTP server
+2018/12/10 12:27:35.403;INFO; Serving windows_shortcuts.
+2018/12/10 12:27:43.909;INFO; Serving index.
+2018/12/10 12:27:47.742;INFO; Serving YAS_Klarity.
+2018/12/10 12:27:48.062;INFO; Serving index.
+2018/12/10 12:28:15.608;INFO; Serving windows_shortcuts.
+2018/12/10 12:28:41.712;INFO; Serving FrontDoorPhoneMenu.
+2018/12/10 12:28:41.805;INFO; Serving index.
+2018/12/10 12:30:13.533;INFO; Database connect and ping successful.
+2018/12/10 12:30:13.534;INFO; Starting the HTTP server
+2018/12/10 12:30:17.534;INFO; Serving index.
+2018/12/10 12:30:25.212;INFO; Serving FrontDoorPhoneMenu.
+2018/12/10 12:37:51.679;INFO; Serving windows_shortcuts.
+2018/12/10 12:38:01.242;INFO; Serving CiscoGenesys.
+2018/12/10 12:38:01.347;INFO; Serving index.
+2018/12/10 12:38:01.354;INFO; Serving index.
+2018/12/10 12:38:05.184;INFO; Serving index.
+2018/12/10 12:38:10.337;INFO; Serving FrontDoorPhoneMenu.
+2018/12/10 12:38:13.215;INFO; Serving index.
+2018/12/10 12:51:10.402;INFO; Database connect and ping successful.
+2018/12/10 12:51:10.403;INFO; Starting the HTTP server
+2018/12/10 12:51:17.836;INFO; Serving index.
+2018/12/10 12:51:26.092;INFO; Serving YAS_Klarity.
+2018/12/10 12:51:26.563;INFO; Serving index.
+2018/12/10 12:51:34.688;INFO; Serving windows_shortcuts.
+2018/12/10 12:53:47.561;INFO; Database connect and ping successful.
+2018/12/10 12:53:47.562;INFO; Starting the HTTP server
+2018/12/10 12:53:58.072;INFO; Serving windows_shortcuts.
+2018/12/10 12:56:01.44;INFO; Database connect and ping successful.
+2018/12/10 12:56:01.441;INFO; Starting the HTTP server
+2018/12/10 12:56:06.998;INFO; Serving windows_shortcuts.
+2018/12/10 13:08:50.508;INFO; Database connect and ping successful.
+2018/12/10 13:08:50.509;INFO; Starting the HTTP server
+2018/12/10 13:08:53.249;INFO; Serving windows_shortcuts.
+2018/12/10 13:10:21.458;INFO; Database connect and ping successful.
+2018/12/10 13:10:21.459;INFO; Starting the HTTP server
+2018/12/10 13:10:25.264;INFO; Serving windows_shortcuts.
+2018/12/10 13:11:11.025;INFO; Database connect and ping successful.
+2018/12/10 13:11:11.026;INFO; Starting the HTTP server
+2018/12/10 13:11:13.443;INFO; Serving windows_shortcuts.
+2018/12/10 13:28:22.924;INFO; Serving windows_shortcuts.
+2018/12/10 13:29:26.72;INFO; Database connect and ping successful.
+2018/12/10 13:29:26.72;INFO; Starting the HTTP server
+2018/12/10 13:29:36.791;INFO; Serving windows_shortcuts.
+2018/12/10 13:30:41.487;INFO; Database connect and ping successful.
+2018/12/10 13:30:41.488;INFO; Starting the HTTP server
+2018/12/10 13:30:44.173;INFO; Serving windows_shortcuts.
+2018/12/10 13:31:24.191;INFO; Database connect and ping successful.
+2018/12/10 13:31:24.191;INFO; Starting the HTTP server
+2018/12/10 13:31:30.457;INFO; Serving index.
+2018/12/10 13:31:38.62;INFO; Serving CiscoGenesys.
+2018/12/10 13:31:38.711;INFO; Serving index.
+2018/12/10 13:31:38.723;INFO; Serving index.
+2018/12/10 13:31:42.107;INFO; Serving index.
+2018/12/10 13:32:07.806;INFO; Serving windows_shortcuts.
+2018/12/10 13:36:02.417;INFO; Database connect and ping successful.
+2018/12/10 13:36:02.418;INFO; Starting the HTTP server
+2018/12/10 13:36:08.041;INFO; Serving index.
+2018/12/10 13:36:13.744;INFO; Serving windows_shortcuts.
+2018/12/10 13:37:28.253;INFO; Database connect and ping successful.
+2018/12/10 13:37:28.253;INFO; Starting the HTTP server
+2018/12/10 13:37:30.199;INFO; Serving index.
+2018/12/10 13:37:34.707;INFO; Serving windows_shortcuts.
+2018/12/10 13:39:10.247;INFO; Database connect and ping successful.
+2018/12/10 13:39:10.248;INFO; Starting the HTTP server
+2018/12/10 13:39:13.725;INFO; Serving windows_shortcuts.
+2018/12/10 13:39:51.381;INFO; Database connect and ping successful.
+2018/12/10 13:39:51.382;INFO; Starting the HTTP server
+2018/12/10 13:39:54.144;INFO; Serving windows_shortcuts.
+2018/12/10 13:40:06.137;INFO; Database connect and ping successful.
+2018/12/10 13:40:06.138;INFO; Starting the HTTP server
+2018/12/10 13:40:08.849;INFO; Serving windows_shortcuts.
+2018/12/10 13:40:45.195;INFO; Database connect and ping successful.
+2018/12/10 13:40:45.196;INFO; Starting the HTTP server
+2018/12/10 13:40:51.361;INFO; Serving windows_shortcuts.
+2018/12/10 13:43:08.727;INFO; Database connect and ping successful.
+2018/12/10 13:43:08.728;INFO; Starting the HTTP server
+2018/12/10 13:43:10.371;INFO; Serving windows_shortcuts.
+2018/12/10 13:43:55.022;INFO; Database connect and ping successful.
+2018/12/10 13:43:55.023;INFO; Starting the HTTP server
+2018/12/10 13:43:55.993;INFO; Serving windows_shortcuts.
+2018/12/10 13:44:01.335;INFO; Serving index.
+2018/12/10 14:08:57.031;INFO; Database connect and ping successful.
+2018/12/10 14:08:57.032;INFO; Starting the HTTP server
+2018/12/10 14:09:11.536;INFO; Serving index.
+2018/12/10 14:09:19.591;INFO; Serving FrontDoorPhoneMenu.
+2018/12/10 15:25:05.721;INFO; Serving index.
+2018/12/10 15:26:06.608;INFO; Serving index.
+2018/12/10 17:51:52.529;INFO; Serving index.
+2018/12/10 18:18:52.085;INFO; Database connect and ping successful.
+2018/12/10 18:18:52.087;INFO; Starting the HTTP server
+2018/12/10 18:19:03.462;INFO; Serving index.
+2018/12/10 18:19:38.97;INFO; Database connect and ping successful.
+2018/12/10 18:19:38.972;INFO; Starting the HTTP server
+2018/12/10 18:19:41.824;INFO; Serving insertPhone.
+2018/12/10 18:20:13.431;INFO; Database connect and ping successful.
+2018/12/10 18:20:13.432;INFO; Starting the HTTP server
+2018/12/10 18:20:16.51;INFO; Serving insertPhone.
+2018/12/10 18:20:37.746;INFO; Database connect and ping successful.
+2018/12/10 18:20:37.747;INFO; Starting the HTTP server
+2018/12/10 18:20:40.762;INFO; Serving insertPhone.
+2018/12/10 18:22:34.661;INFO; Serving index.
+2018/12/10 18:23:20.825;INFO; Serving insertPhone.
+2018/12/10 18:24:02.317;INFO; Serving index.
+2018/12/10 18:24:25.076;INFO; Database connect and ping successful.
+2018/12/10 18:24:25.077;INFO; Starting the HTTP server
+2018/12/10 18:24:30.195;INFO; Serving insertPhone.
+2018/12/10 18:24:47.57;INFO; Inserting Audio Bridge Support916-377-8987 into phone.
+2018/12/10 18:24:47.603;INFO; Serving insertPhone.
+2018/12/10 18:26:59.263;INFO; Inserting AFO Pack & Ship971-215-4445 into phone.
+2018/12/10 18:26:59.265;INFO; Serving insertPhone.
+2018/12/10 18:27:13.758;INFO; Inserting AOG L3 or CAS8-723-3716 into phone.
+2018/12/10 18:27:13.762;INFO; Serving insertPhone.
+2018/12/10 18:27:27.563;INFO; Inserting AOG L3/CAS Dir408-723-3716 into phone.
+2018/12/10 18:27:27.569;INFO; Serving insertPhone.
+2018/12/10 18:27:40.041;INFO; Inserting BLS Oncall8-356-7996 into phone.
+2018/12/10 18:27:40.059;INFO; Serving insertPhone.
+2018/12/10 18:27:56.745;INFO; Inserting Cisco Phone Support1+(916)377-9959 into phone.
+2018/12/10 18:27:56.764;INFO; Serving insertPhone.
+2018/12/10 18:28:26.227;INFO; Inserting CMS Server Issues8-377-0798 into phone.
+2018/12/10 18:28:26.238;INFO; Serving insertPhone.
+2018/12/10 18:28:44.232;INFO; Inserting COS Hotline971-214-2222 into phone.
+2018/12/10 18:28:44.241;INFO; Serving insertPhone.
+2018/12/10 18:33:35.387;INFO; Inserting D1C Bridge (Option 4)855-276-0859 into phone.
+2018/12/10 18:33:35.389;INFO; Serving insertPhone.
+2018/12/10 18:33:49.582;INFO; Inserting D1C Bridge (Option 5)855-276-0860 into phone.
+2018/12/10 18:33:49.591;INFO; Serving insertPhone.
+2018/12/10 18:34:04.567;INFO; Inserting D1C Frontdoor503-613-FAST into phone.
+2018/12/10 18:34:04.582;INFO; Serving insertPhone.
+2018/12/10 18:34:21.6;INFO; Inserting D1C Front Tollfree800-230-7472 into phone.
+2018/12/10 18:34:21.605;INFO; Serving insertPhone.
+2018/12/10 18:34:36.283;INFO; Inserting D1C Sort8-613-3099 into phone.
+2018/12/10 18:34:36.288;INFO; Serving insertPhone.
+2018/12/10 18:34:50.276;INFO; Inserting D1D Bridge (Option 7)781-448-0418 into phone.
+2018/12/10 18:34:50.28;INFO; Serving insertPhone.
+2018/12/10 18:35:04.594;INFO; Inserting D1D Bridge (Option 8)781-448-0342 into phone.
+2018/12/10 18:35:04.598;INFO; Serving insertPhone.
+2018/12/10 18:35:18.541;INFO; Inserting D1D Frontdoor971-214-FAST into phone.
+2018/12/10 18:35:18.559;INFO; Serving insertPhone.
+2018/12/10 18:35:32.048;INFO; Inserting D1D Front Tollfree866-861-8768 into phone.
+2018/12/10 18:35:32.059;INFO; Serving insertPhone.
+2018/12/10 18:35:45.231;INFO; Inserting D1D Muratec8-214-6785 into phone.
+2018/12/10 18:35:45.24;INFO; Serving insertPhone.
+2018/12/10 18:35:59.051;INFO; Inserting D1D SK/Daifuku8-214-0148/0149 into phone.
+2018/12/10 18:35:59.055;INFO; Serving insertPhone.
+2018/12/10 18:36:13.728;INFO; Inserting Secret Bridge (Option 11)319-527-3859 into phone.
+2018/12/10 18:36:13.738;INFO; Serving insertPhone.
+2018/12/10 18:36:30.222;INFO; Inserting Secret Bridge (Option 12)319-527-3787 into phone.
+2018/12/10 18:36:30.239;INFO; Serving insertPhone.
+2018/12/10 18:36:44.057;INFO; Inserting Genesys Phone Support(480)-723-5013 into phone.
+2018/12/10 18:36:44.065;INFO; Serving insertPhone.
+2018/12/10 18:36:59.046;INFO; Inserting Genesys Phone BackDoor(480)-723-2886 into phone.
+2018/12/10 18:36:59.052;INFO; Serving insertPhone.
+2018/12/10 18:37:14.221;INFO; Inserting IT TAC8-696-1234 into phone.
+2018/12/10 18:37:14.237;INFO; Serving insertPhone.
+2018/12/10 18:37:29.536;INFO; Inserting TAC Direct503-696-1234 into phone.
+2018/12/10 18:37:29.548;INFO; Serving insertPhone.
+2018/12/10 18:37:43.042;INFO; Inserting Sprint866-809-7766 into phone.
+2018/12/10 18:37:43.046;INFO; Serving insertPhone.
+2018/12/10 18:58:07.603;INFO; Database connect and ping successful.
+2018/12/10 18:58:07.604;INFO; Starting the HTTP server
+2018/12/10 18:58:14.205;INFO; Serving index.
+2018/12/10 18:59:16.587;INFO; Serving index.
+2018/12/10 18:59:30.237;INFO; Database connect and ping successful.
+2018/12/10 18:59:30.238;INFO; Starting the HTTP server
+2018/12/10 18:59:32.941;INFO; Serving insertCategory.
+2018/12/10 18:59:39.738;INFO; Inserting BAAAAAAAAAALS into category.
+2018/12/10 19:10:43.769;INFO; Database connect and ping successful.
+2018/12/10 19:10:43.769;INFO; Starting the HTTP server
+2018/12/10 19:10:46.583;INFO; Serving index.
+2018/12/10 19:10:52.018;INFO; Serving insertCategory.
+2018/12/10 19:11:03.034;INFO; Inserting BAAAAAALSSS into category.
+2018/12/10 19:11:03.049;ERROR; Error converting category number string to int; strconv.Atoi: parsing "": invalid syntax
+2018/12/10 19:11:15.008;INFO; Serving index.
+2018/12/10 19:13:43.978;INFO; Database connect and ping successful.
+2018/12/10 19:13:43.979;INFO; Starting the HTTP server
+2018/12/10 19:13:52.649;INFO; Serving insertCategory.
+2018/12/10 19:14:03.22;INFO; Inserting BAAAAAAALLLS into category.
+2018/12/10 19:14:03.228;INFO; Serving insertCategory.
+2018/12/10 19:14:06.914;INFO; Serving index.
+2018/12/10 19:14:36.045;INFO; Serving index.
+2018/12/11 08:20:20.274;INFO; Database connect and ping successful.
+2018/12/11 08:20:20.281;INFO; Starting the HTTP server
+2018/12/11 08:20:31.582;INFO; Serving index.
+2018/12/11 08:21:54.603;INFO; Database connect and ping successful.
+2018/12/11 08:21:54.604;INFO; Starting the HTTP server
+2018/12/11 08:21:57.203;INFO; Serving index.
+2018/12/11 08:22:50.888;INFO; Database connect and ping successful.
+2018/12/11 08:22:50.889;INFO; Starting the HTTP server
+2018/12/11 08:22:52.6;INFO; Serving index.

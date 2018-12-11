@@ -4,9 +4,9 @@ import (
 	"log"
 )
 
-func InsertLink(name string, address string, category string, tags string) {
+func InsertCategory(name string, number int) {
 
-	res, err := db.Exec("INSERT INTO Links VALUES($1, $2, $3, $4)", name, address, tags, category)
+	res, err := db.Exec("INSERT INTO Category VALUES($1, $2)", name, number)
 	if err != nil{
 		log.Fatal(err)
 	}

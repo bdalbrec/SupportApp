@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>FAST Support Page - Add a Phone Number</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- This fixes the stupid compatibility mode for intranet sites by forcing it to use most modern browser version. -->
+    <link rel="Stylesheet" type="text/css" href="/public/stylesheets/addlinkstylesheet.css">
+    <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/x-icon">
+    <script src="/public/scripts/jquery-1.11.1.min.js"></script>
+    <script src="/public/scripts/modernizr.custom.79706.js"></script>
+
+</head>
+
+<body>
+
+        <div id="wrapper">
+
+            <div id="header">
+                <h1>Add Phone Number</h1>
+                <a id="homeBox" name="shomeBox" href="index.html">Home</a>
+            </div>
+
+            <div id="content">
+                    <form method="post" action="insertPhone">
+                            <fieldset>
+                                <legend>Add a Phone Number</legend>
+                                <label for="name">Name:</label>
+                                <input id="name" class ="form-field" name="phoneName" type="text" placeholder="Name" maxlength="50" required>
+                                <br>
+                                <label for="address">Number:</label>
+                                <input id="address" class ="form-field" name="phoneNumber" type="text" placeholder="xxx-xxx-xxxx" maxlength="500" required>
+                                <input id="btn-submit" type="submit" value="Submit">
+                            </fieldset>  
+                        </form>
+            </div>
+
+
+            <div id="footer">
+                <p>Page Owner - <a target="_blank" href="mailto:brian.d.albrecht@intel.com?subject=FAST Quick Reference Feedback">Brian Albrecht</a> | <a tartet="_blank" href="revision_history.html">Last updated <script src="/public/scripts/FileDate.js"></script></a></p>
+            </div>
+        </div>
+
+</body>
+</html>
