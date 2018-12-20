@@ -33,6 +33,7 @@ func main() {
 	http.HandleFunc("/FrontDoorPhoneMenu", frontDoorPhoneMenu)
 	http.HandleFunc("/YAS_Klarity", yasKlarity)
 	http.HandleFunc("/WindowsShortcuts", windowsShortcuts)
+	http.HandleFunc("/linkList", linkList)
 	http.Handle("/favicon.ico", http.NotFoundHandler())
 	http.Handle("/public/", http.StripPrefix("/public", http.FileServer(http.Dir("public/"))))
 	
@@ -200,6 +201,41 @@ func insertPhone(w http.ResponseWriter, req *http.Request) {
 
 }
 
+
+func linkList(w http.ResponseWriter, req *http.Request) {
+	type Link struct {
+		Name string
+		Address string
+		Tags string
+	}
+
+	var O []Link
+
+	// grab all the links
+	links, err := models.GetAllLinks()
+	if err != nil {
+		sll.LogError("Error retrieving links from datbase.", logname, err)
+		return
+	}
+
+	// iterate over the links and add them to the Section.Links array
+	for _, l := range links {
+		var lnk Link
+		lnk.Name = l.Name
+		lnk.Address = l.Address
+		lnk.Tags = l.Tags
+		O = append(O, lnk)
+	}
+
+	// execute the template and send it to the client
+	err = tpl.ExecuteTemplate(w, "linkList.html", O)
+	if err != nil {
+		sll.LogError("Error executing linkList template.", logname, err)
+		return
+	}
+	sll.LogInfo("Serving index.", logname)
+
+}
 
 // handlers for static pages
 

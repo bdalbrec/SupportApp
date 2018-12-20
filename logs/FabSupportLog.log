@@ -282,3 +282,88 @@
 2018/12/11 08:22:50.888;INFO; Database connect and ping successful.
 2018/12/11 08:22:50.889;INFO; Starting the HTTP server
 2018/12/11 08:22:52.6;INFO; Serving index.
+2018/12/18 15:32:57.604;INFO; Database connect and ping successful.
+2018/12/18 15:32:57.614;INFO; Starting the HTTP server
+2018/12/18 15:33:03.544;INFO; Serving index.
+2018/12/18 15:33:16.501;ERROR; Error executing linkList template.; template: linkList.html:29:20: executing "linkList.html" at <.Links>: can't evaluate field Links in type []main.Link
+2018/12/18 15:34:45.823;ERROR; Error executing linkList template.; template: linkList.html:29:20: executing "linkList.html" at <.Links>: can't evaluate field Links in type []main.Link
+2018/12/18 15:34:57.597;INFO; Database connect and ping successful.
+2018/12/18 15:34:57.606;INFO; Starting the HTTP server
+2018/12/18 15:34:59.105;ERROR; Error executing linkList template.; template: linkList.html:29:20: executing "linkList.html" at <.Links>: can't evaluate field Links in type []main.Link
+2018/12/18 15:35:12.251;ERROR; Error executing linkList template.; template: linkList.html:29:20: executing "linkList.html" at <.Links>: can't evaluate field Links in type []main.Link
+2018/12/18 15:35:26.347;ERROR; Error executing linkList template.; template: linkList.html:29:20: executing "linkList.html" at <.Links>: can't evaluate field Links in type []main.Link
+2018/12/18 15:36:23.699;INFO; Database connect and ping successful.
+2018/12/18 15:36:23.7;INFO; Starting the HTTP server
+2018/12/18 15:36:26.262;INFO; Serving index.
+2018/12/19 14:37:32.828;INFO; Database connect and ping successful.
+2018/12/19 14:37:32.831;INFO; Starting the HTTP server
+2018/12/19 14:37:33.991;INFO; Serving index.
+2018/12/19 14:38:09.765;ERROR; Error retrieving links from datbase.; sql: expected 2 destination arguments in Scan, not 5
+2018/12/19 14:38:28.116;ERROR; Error retrieving links from datbase.; sql: expected 2 destination arguments in Scan, not 5
+2018/12/19 14:38:32.891;INFO; Serving index.
+2018/12/19 14:38:40.569;ERROR; Error retrieving links from datbase.; sql: expected 2 destination arguments in Scan, not 5
+2018/12/19 14:39:45.539;INFO; Database connect and ping successful.
+2018/12/19 14:39:45.54;INFO; Starting the HTTP server
+2018/12/19 14:39:49.533;INFO; Serving index.
+2018/12/19 14:43:18.425;INFO; Database connect and ping successful.
+2018/12/19 14:43:18.426;INFO; Starting the HTTP server
+2018/12/19 14:43:19.559;ERROR; Error executing linkList template.; template: linkList.html:38:22: executing "linkList.html" at <.Tags>: can't evaluate field Tags in type main.Link
+2018/12/19 14:44:05.699;INFO; Database connect and ping successful.
+2018/12/19 14:44:05.7;INFO; Starting the HTTP server
+2018/12/19 14:44:06.54;ERROR; Error executing linkList template.; template: linkList.html:39:26: executing "linkList.html" at <.Tags>: can't evaluate field Tags in type main.Link
+2018/12/19 14:46:35.237;INFO; Database connect and ping successful.
+2018/12/19 14:46:35.238;INFO; Starting the HTTP server
+2018/12/19 14:46:38.631;ERROR; Error executing linkList template.; template: linkList.html:39:26: executing "linkList.html" at <.Tags>: can't evaluate field Tags in type main.Link
+2018/12/19 14:48:55.315;INFO; Database connect and ping successful.
+2018/12/19 14:48:55.316;INFO; Starting the HTTP server
+2018/12/19 14:48:57.021;INFO; Serving index.
+2018/12/19 14:51:25.951;INFO; Database connect and ping successful.
+2018/12/19 14:51:25.952;INFO; Starting the HTTP server
+2018/12/19 14:51:28.58;INFO; Serving index.
+2018/12/19 17:08:54.747;INFO; Serving index.
+2018/12/19 17:11:23.157;INFO; Serving index.
+2018/12/19 17:12:02.581;INFO; Serving index.
+2018/12/19 17:12:07.034;INFO; Serving index.
+2018/12/19 17:12:41.219;INFO; Serving index.
+2018/12/19 17:12:46.056;INFO; Serving index.
+2018/12/19 17:12:48.688;INFO; Serving index.
+2018/12/19 17:14:19.05;INFO; Database connect and ping successful.
+2018/12/19 17:14:19.05;INFO; Starting the HTTP server
+2018/12/19 17:14:21.017;INFO; Serving index.
+2018/12/19 17:14:25.457;INFO; Serving index.
+2018/12/19 17:15:08.059;INFO; Serving index.
+2018/12/19 17:15:19.709;INFO; Serving index.
+2018/12/19 17:16:07.83;INFO; Serving index.
+2018/12/19 17:16:11.998;INFO; Serving index.
+2018/12/19 17:17:24.488;INFO; Serving index.
+2018/12/19 17:17:28.429;INFO; Serving index.
+2018/12/19 17:17:48.515;INFO; Serving index.
+2018/12/19 17:17:52.026;INFO; Serving index.
+2018/12/19 17:19:08.768;INFO; Serving index.
+2018/12/19 17:21:43.075;INFO; Database connect and ping successful.
+2018/12/19 17:21:43.075;INFO; Starting the HTTP server
+2018/12/19 17:21:44.859;INFO; Serving index.
+2018/12/19 17:21:50.161;INFO; Serving index.
+2018/12/19 17:21:55.213;INFO; Serving index.
+2018/12/19 17:23:35.48;INFO; Database connect and ping successful.
+2018/12/19 17:23:35.481;INFO; Starting the HTTP server
+2018/12/19 17:23:43.661;INFO; Serving index.
+2018/12/19 17:23:48.913;INFO; Serving index.
+2018/12/19 17:25:07.616;INFO; Database connect and ping successful.
+2018/12/19 17:25:07.617;INFO; Starting the HTTP server
+2018/12/19 17:25:09.87;INFO; Serving index.
+2018/12/19 17:26:24.831;INFO; Serving index.
+2018/12/19 17:27:03.177;INFO; Serving index.
+2018/12/19 17:27:08.319;INFO; Serving index.
+2018/12/19 17:28:52.269;INFO; Serving index.
+2018/12/19 17:30:06.764;INFO; Serving index.
+2018/12/19 17:30:11.075;INFO; Serving index.
+2018/12/19 17:30:21.966;INFO; Serving index.
+2018/12/19 17:31:02.791;INFO; Serving index.
+2018/12/19 17:32:41.742;INFO; Serving index.
+2018/12/19 17:32:46.087;INFO; Serving index.
+2018/12/19 17:33:30.89;INFO; Serving index.
+2018/12/19 17:35:32.271;INFO; Serving index.
+2018/12/19 17:45:25.234;INFO; Serving index.
+2018/12/19 17:45:28.504;INFO; Serving index.
+2018/12/19 17:47:49.802;INFO; Serving index.

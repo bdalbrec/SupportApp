@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>FAST Support Page - Link List</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />  <!-- This fixes the stupid compatibility mode for intranet sites by forcing it to use most modern browser version. -->
+    <link rel="Stylesheet" type="text/css" href="/public/stylesheets/linkListStylesheet.css">
+    <link rel="shortcut icon" href="/public/img/favicon.ico" type="image/x-icon">
+    <script src="/public/scripts/jquery-1.11.1.min.js"></script>
+    <script src="/public/scripts/modernizr.custom.79706.js"></script>
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+
+    <div id="header">
+        <h1>Delight Our Customers</h1>
+        <a id="homeBox" name="shomeBox" href="index.html">Home</a>
+    </div>
+
+    <div id="content">
+
+        <table>
+            <tr>
+                <th>Name</th>
+                <th>Address</th>
+                <th>Tags</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            {{range .}}
+                <tr>
+                    <td style="width:20%">{{.Name}}</td>
+                    <td style="width:20%">{{.Address}}</td>
+                    <td style="width:20%">{{.Tags}}</td>
+                    <td style="width:10%">Edit</td>
+                    <td style="width:10%">Delete</td>
+                </tr>
+            {{end}}
+        </table>         
+    </div>
+
+
+        <div id="footer">
+            <p>Page Owner - <a target="_blank" href="mailto:brian.d.albrecht@intel.com?subject=FAST Quick Reference Feedback">Brian Albrecht</a> | <a tartet="_blank" href="revision_history.html">Last updated <script src="/public/scripts/FileDate.js"></script></a></p>
+        </div>
+
+        <div id="searchResults">
+            <ul id="results">
+            </ul>
+        </div>
+
+
+    </div> <!-- End Wrapper -->
+</body>
+</html>

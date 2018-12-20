@@ -1,0 +1,100 @@
+#header {
+    text-align: center;
+    }
+    
+    h1 {
+        color: #FF4900;
+        font-size: 3em; /*was 2 - changed for Farzad*/
+    }
+    
+    #wrapper {
+        background-color: #0071C5;
+        border: outset 2px #BDBDBD;
+        border-radius: 30px;
+        color: White;
+        max-width: 1024px;
+        margin: 10px auto 0 auto;
+        position: relative;
+        width: 100%;
+        
+        
+            /* Drop Shadow */
+        -webkit-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+        -moz-box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+        box-shadow: 3px 5px 7px 0px rgba(0,0,0,0.75);
+        
+    }
+    
+    
+    
+    
+    /* homeBox takes the place of searchbox on sub-pages*/
+    #homeBox { 
+        position: absolute;
+        color: #FF9200;
+        top: 70px; /* was 50 with smaller fonts */
+        right: 80px;
+        padding-bottom: 0;
+    }
+    
+    
+    a {
+        color: White;
+    }      
+        
+     
+    
+    
+    #wrapper label {
+        float:left;
+        width:25%;
+        text-align:right;
+        margin-right:5px; /* optional */
+        margin-top: 10px;
+      }
+      
+      #wrapper input {
+        float:left;
+        width:55%;
+        margin-top: 10px;
+      }
+    
+      #wrapper select {
+        float:left;
+        width:55%;
+        margin-top: 10px;
+      }
+    
+    #btn-submit {
+        margin-left: 255px;
+        width: 150px;
+        height: 50px;
+    }
+    
+    
+    #content table {
+        border: 3px solid #ccc;
+        border-spacing: 0;
+        display: block;
+        table-layout: fixed;
+    }
+
+    #content table td {
+        border: 1px solid #ccc;
+    }
+
+
+        
+    #footer {
+        border-top: 1px solid #ccc;
+        color: #FF9200; 
+        font-size: 11px; /* was 10px at original design */
+        text-align: center;
+        clear: left;
+    }	
+    
+    #footer a {
+        color: #FF9200;
+    }
+    
+    
